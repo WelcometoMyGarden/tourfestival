@@ -47,7 +47,7 @@
     "astro": "^5.14.1",
     "lodash-es": "^4.17.21",
     "luxon": "^3.7.2",
-    "svelte": "^5.39.7",
+    "svelte": "^5.53.0",
     "typescript": "^5.9.3"
   },
   "devDependencies": {
